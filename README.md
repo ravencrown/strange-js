@@ -4,8 +4,9 @@ js 这门语言，水很浅。没有太复杂的地方可以钻，但特么的�
 
 下面 Mark 一些我个人觉得奇异的地方，后面再进行解析
 
-1. [原型链那一块](https://github.com/guangxiao/strange-js/issues/1)
+1. [ [] 的 constructor ](https://github.com/guangxiao/strange-js/issues/1)
 2. [Number 精度类](https://github.com/guangxiao/strange-js/issues/2)
+3. [null 和 undefined](https://github.com/guangxiao/strange-js/issues/3)
 
 ## JavaScript 之美
 
