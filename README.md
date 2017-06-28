@@ -8,6 +8,8 @@ js 这门语言，水很浅。没有太复杂的地方可以钻，但特么的�
 2. [Number 精度类](https://github.com/guangxiao/strange-js/issues/2)
 3. [null 和 undefined](https://github.com/guangxiao/strange-js/issues/3)
 4. [所有变量都是对象(除了 null 和 undefined)](https://github.com/guangxiao/strange-js/issues/4)
+5. [属性访问](https://github.com/guangxiao/strange-js/issues/5)
+
 
 ## JavaScript 之美
 
