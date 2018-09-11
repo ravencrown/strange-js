@@ -19,3 +19,10 @@ js 这门语言，水很浅。没有太复杂的地方可以钻，但特么的�
 其二：http://fxck.it/post/73513189448
 
 均引用自 https://github.com/alsotang/node-lessons/tree/master/lesson14
+
+
+## What the f*ck JavaScript?
+
+偶然翻到这个 git 项目，完全是我这个库的变形金刚版本  [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md#what-the-fck-javascript)
+
+
